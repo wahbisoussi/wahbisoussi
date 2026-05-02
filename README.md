@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps, and Web3 technologies**
 
-- 👨‍💻 All of my projects are available at **(Most Of them Are Private, If You're a Client Or Recruiter Please Contact Me to Check them Out)** [https://github.com/wahbisoussiesprit](https://github.com/wahbisoussiesprit)
+- 👨‍💻 All of my projects are available at **(Most Of them Are Private, If You're a Client Or Recruiter Please Contact Me to Check them Out)** [https://github.com/wahbisoussiesprit](https://github.com/wahbisoussi)
 
 - 💬 Ask me about **Spring Boot, Angular and DevOps**
 
