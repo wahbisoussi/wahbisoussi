@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wahbi</h1>
-<h3 align="center">A passionate Software Architecture Engineer</h3>
+<h3 align="center">A passionate Backend Engineer</h3>
 
 - 🔭 I’m currently working on **Building On CI/CD Pipeline**
 - 🌱 I’m currently learning **DevOps, and Web3 technologies**
@@ -46,9 +46,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahbisoussiesprit&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahbisoussi&show_icons=true&locale=en" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahbisoussiesprit&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahbisoussi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=wahbisoussiesprit" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wahbisoussi" alt="GitHub Streak" />
 </p>
