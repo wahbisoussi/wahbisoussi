@@ -1,12 +1,12 @@
 ![image](https://github.com/wahbisoussiesprit/wahbisoussiesprit/blob/main/welcome.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Wahbi</h1>
-<h3 align="center">A passionate Software Architecture Engineering Student</h3>
+<h3 align="center">A passionate Software Architecture Engineer</h3>
 
 - 🔭 I’m currently working on **Building On CI/CD Pipeline**
 
 - 🌱 I’m currently learning **DevOps, and Web3 technologies**
 
-- 👨‍💻 All of my projects are available at **(Most Of them Are Private, If You're a Client Or Recruiter Please Contact Me to Check them Out)** [https://github.com/wahbisoussiesprit](https://github.com/wahbisoussi)
+- 👨‍💻 All of my projects are available at **(Most Of them Are Private, If You're a Client Or Recruiter Please Contact Me to Check them Out)** [https://github.com/wahbisoussi](https://github.com/wahbisoussi)
 
 - 💬 Ask me about **Spring Boot, Angular and DevOps**
 
