@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wahbi</h1>
 <h3 align="center">A passionate Backend Engineer</h3>
 
-- 🔭 I’m currently working on **Building On CI/CD Pipeline**
-- 🌱 I’m currently learning **DevOps, and Web3 technologies**
+- 🔭 I’m currently working on **Ascend,an EdTech Web Application**
+- 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [github.com/wahbisoussi](https://github.com/wahbisoussi) *(Most are private — reach out if you'd like demo access)*
 - 💬 Ask me about **Spring Boot, Angular and DevOps**
 - 📫 How to reach me: **wahbi.soussi@gmail.com**
